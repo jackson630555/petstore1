@@ -1,4 +1,0 @@
-RUN	simulations.PetStore	petstore	1749019536898	 	3.9.5
-USER	PetStore API calls	START	1749019538419
-REQUEST		PetStore details based on ID	1749019538408	1749019539905	OK	 
-USER	PetStore API calls	END	1749019539957
